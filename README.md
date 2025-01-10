@@ -1,5 +1,5 @@
 # TARGET
-## 🚧 Submission in Progress
+## Submission in Progress
 This project is currently under review.
 
 ## Important Note
